@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "instructor_name": "Gerard Henrichs",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYIwXU9-y14_ed6jPSKou-PlINfKKroJWYA&usqp=CAU",
+        "course_name": "Learn React JS Tutorial For Beginners",
+        "enrolled": 198,
+        "price": 600
+    },
+    {
+        "id": 2,
+        "instructor_name": "Chance Carvell",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOK0493p-TO_3l7evVe_yccMkqAOiDN9p0nQ&usqp=CAU",
+        "course_name": "English Pronunciation for Beginners",
+        "enrolled": 181,
+        "price": 380
+    },
+    {
+        "id": 3,
+        "instructor_name": "Morganne O'Hickee",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTgi17QjVQSTVcpZBEbxYM_XNeVNxBKEzKQ&usqp=CAU",
+        "course_name": "Health and Safety Awareness Training",
+        "enrolled": 110,
+        "price": 100
+    },
+    {
+        "id": 4,
+        "instructor_name": "Enos Rawstron",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrQq0IB70qRmXescTNKjNybt30ryBeCD_Qw&usqp=CAU",
+        "course_name": "Complete Financial Analyst Course",
+        "enrolled": 80,
+        "price": 300
+    },
+    {
+        "id": 5,
+        "instructor_name": "Glenn Abbiss",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0MJe_PBXgK01xPUqS6jFO-yjlKbDZQIo9lQ&usqp=CAU",
+        "course_name": "Drawing and Painting Course for Children",
+        "enrolled": 1,
+        "price": 500
+    },
+    {
+        "id": 6,
+        "instructor_name": "Frazier Figin",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNRjVZT0h3J7n-Uch2ugG3GCMcKVVo72mCQ&usqp=CAU",
+        "course_name": "IELTS Course for international students",
+        "enrolled": 154,
+        "price": 600
+    },
+    {
+        "id": 7,
+        "instructor_name": "Elbertine Book",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXRXjdgUON3BD4I6z_KJ30Fb8j9XvwT3Hc2Q&usqp=CAU",
+        "course_name": "Android App Development Course",
+        "enrolled": 80,
+        "price": 700
+    },
+    {
+        "id": 8,
+        "instructor_name": "Callean Berzins",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR97q4DYLZO3s6PUEEP8-2wgoYcMDJ4FUfQRw&usqp=CAU",
+        "course_name": "Learn basic JS For Beginners",
+        "enrolled": 34,
+        "price": 200
+    },
+    {
+        "id": 9,
+        "instructor_name": "Rona Feragh",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnWZR6RY6dMepOPul0xG4jjjgBrcGGvaShOA&usqp=CAU",
+        "course_name": "Photography course",
+        "enrolled": 46,
+        "price": 400
+    },
+    {
+        "id": 10,
+        "instructor_name": "Ashby McKernan",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBOhU18dCzpFuxfZreL7KONEXmxEvGhSEx-A&usqp=CAU",
+        "course_name": "Learn python For Beginners",
+        "enrolled": 77,
+        "price": 450
+    }
+]

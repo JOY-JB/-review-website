@@ -1,0 +1,9 @@
+/* This is Header Section custom Style */
+
+.navStyle{
+    display: block;
+    text-decoration: none;
+        padding-right: .5rem;
+        padding-left: .5rem;
+        color: #1a0267;
+    };
